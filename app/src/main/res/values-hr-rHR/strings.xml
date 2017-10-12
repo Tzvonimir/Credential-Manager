@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Upravljač vjerodajnicama</string>
+    <string name="add_category">Dodaj kategoriju</string>
+    <string name="add_credential">Dodaj vjerodajnicu</string>
+    <string name="name">Naziv</string>
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="comment">Komentar</string>
+    <string name="title_activity_dashboard">Kontrolna ploča</string>
+    <string name="navigation_drawer_open">Otvori</string>
+    <string name="navigation_drawer_close">Zatvori</string>
+    <string name="action_settings">Postavke</string>
+    <string name="categories_fragment">Kategorije</string>
+    <string name="credentials_fragment">Vjerodajnice</string>
+    <string name="save">Pohrani</string>
+    <string name="cancel">Odustani</string>
+    <string name="edit_credential">Uredi vjerodajnicu</string>
+    <string name="required">Obavezno</string>
+    <string name="unlock">Otključaj</string>
+    <string name="master_password">Glavna Lozinka</string>
+    <string name="confirmation">Potvrda</string>
+    <string name="are_u_sure">Jeste li sigurni?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="email">Email</string>
+    <string name="url_format">URL nije dobro formatiran</string>
+    <string name="email_format">Email nije dobro formatiran</string>
+    <string name="logout">Odjava</string>
+    <string name="password_missmatch">Lozinke se ne podudaraju</string>
+    <string name="wrong_password">Kriva lozinka</string>
+</resources>
